@@ -1,0 +1,11 @@
+---
+global:
+  name: Data-Domain-Bundle
+releases:
+  - author: 'Marcel Gruenauer <marcel@cpan.org>'
+    changes:
+      - original version
+      - updated t/perlcriticrc
+    date: 2007-11-21T18:21:44Z
+    tags: []
+    version: 0.01
